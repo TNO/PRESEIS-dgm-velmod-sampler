@@ -1,0 +1,26 @@
+name: dgm_velmod_sampler
+channels:
+  - conda-forge
+  - defaults
+dependencies:
+  - python
+  - numpy
+  - pandas
+  - rioxarray
+  - xarray
+  - pyproj
+  - ca-certificates
+  - openssl
+  - pytest
+  - wget
+  - certifi
+  - python-wget
+  - tqdm
+  - ipykernel
+  - json5
+  - pip
+  - matplotlib
+  - pytest
+  - pytest-cov
+  - pip:
+    - zmapio

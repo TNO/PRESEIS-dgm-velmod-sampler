@@ -155,3 +155,5 @@ dmypy.json
 # Cython debug symbols
 cython_debug/
 
+README_files/
+README.html
